@@ -11,3 +11,5 @@ Left off on: https://www.youtube.com/watch?v=xdLgTDlFwrc / https://courses.think
 Not too useful:
 
 https://towardsdatascience.com/machine-learning-fundamentals-via-linear-regression-41a5d11f5220
+
+rest of explanation in jupyter notebook
