@@ -4,12 +4,18 @@ For many linear regressions, the model is sufficiently simple that the true mini
 
 One such algorithm is gradient descent, which iteratively minimizes the cost function using derivatives. This approach is robust and flexible, and can be applied to basically any differentiable function.
 
-TODO: update this later with specifics on gradient descent
+(The rest of explanation is in jupyter notebook)
 
-Left off on: https://www.youtube.com/watch?v=xdLgTDlFwrc / https://courses.thinkful.com/data-201v1/assignment/2.5.4
+# TODOS: 
+
+Update this later with specifics on gradient descent
+
+Left off on: 
+
+https://www.youtube.com/watch?v=xdLgTDlFwrc
+https://courses.thinkful.com/data-201v1/assignment/2.5.4
 
 Not too useful:
 
 https://towardsdatascience.com/machine-learning-fundamentals-via-linear-regression-41a5d11f5220
 
-rest of explanation in jupyter notebook
